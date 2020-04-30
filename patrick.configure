@@ -1,0 +1,1 @@
+./configure --with-pin=$PIN_HOME --prefix=$SST_ELEMENTS_HOME --with-sst-core=$SST_CORE_HOME --disable-nls
